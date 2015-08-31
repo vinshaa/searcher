@@ -16,6 +16,7 @@ public class VectorsCreator {
         WordsMapper wordsMapper = listOfWordsCreator.getWordsMapper();
 
 
+
     public void iterateOverFiles(String dir) {
 
         File directory = new File(dir);
